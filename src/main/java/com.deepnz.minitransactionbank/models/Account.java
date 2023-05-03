@@ -6,5 +6,4 @@ public Class Account {
     private int balance;
     private List<Transaction> listOfTransactions;
 
-
         }
